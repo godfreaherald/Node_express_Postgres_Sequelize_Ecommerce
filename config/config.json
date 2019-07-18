@@ -1,0 +1,27 @@
+{
+
+
+  "development": {
+    "username": "godfrey",
+    "password": "23199100",
+    "database": "heraldstores",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "godfrey",
+    "password": "23199100",
+    "database": "heraldstores",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "godfrey",
+    "password": "23199100",
+    "database": "heraldstores",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
+
